@@ -54,5 +54,5 @@ Through this project, I learned:
 This project was completed as part of the Machine Learning Internship conducted by UCT (UpSkill Campus).
 
 ## Author
-Pratyush Ranjan Sinha
+Khushi
 B.Tech (AI/ML)
